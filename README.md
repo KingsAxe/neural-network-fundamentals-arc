@@ -34,7 +34,7 @@ The assessment evaluates ability to:
 - **Key insights**: Why certain bugs caused specific failure modes
 - **ARC adaptation strategies**: How to extend this to grid-to-grid transformations
 
-## 🌟 Key Achievement
+##  Key Achievement
  **92% validation accuracy** on symmetry classification task  
 All CNN components validated with unit tests  
 Critical analysis of CNN limitations for ARC tasks  
